@@ -1,2 +1,2 @@
-# datasciencecoursera
-Utilizando Rmarkdown
+Este es un archivo de reducción"
+--------------------------------
