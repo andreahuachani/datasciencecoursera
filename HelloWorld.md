@@ -1,2 +1,2 @@
-Este es un archivo de reducción"
---------------------------------
+Este es un archivo de reducción
+-------------------------------
